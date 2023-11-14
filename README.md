@@ -1,2 +1,2 @@
-# covid19-analysis-by-race
+# COVID19-analysis-by-races
  
